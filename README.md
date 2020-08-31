@@ -1,9 +1,6 @@
 # PyBank
 
-
-* The Python script analyzes financial records of a company. YProvided with an example financial data set. The dataset is composed of two columns: `Date` and `Profit/Losses`.
-
-* The Python script analyzes the records to calculate each of the following:
+* The dataset is composed of two columns: `Date` and `Profit/Losses`. The goal is to write a script that analyzes the records to calculate each of the following:
 
   * The total number of months included in the dataset
 
@@ -17,7 +14,7 @@
 
 ## PyPoll
 
-* The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. The Python script  analyzes the votes and calculates each of the following:
+* The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. The goal of the script is to analyze the votes and calculates each of the following:
 
   * The total number of votes cast
 
